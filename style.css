@@ -1,0 +1,33 @@
+body{
+ background-size:  cover;   
+}
+
+.heading{
+    font-size: large;
+    width: 100%;
+    margin: 10px;
+}
+
+#note{
+    font-size: small;
+    color: black;
+}
+
+
+.start{
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+#status,#obj{
+    font-size: 18px;
+    border-radius: 5px;
+    color: black;
+}
+
+
+canvas{
+    border: 5px ridge rgb(32, 218, 178);
+    box-shadow: 5px 5px 5px  rgb(132, 59, 180);
+    margin-top: 150px;
+}
